@@ -1,0 +1,2 @@
+# Poc.ReactRedux
+Estudando Redux
